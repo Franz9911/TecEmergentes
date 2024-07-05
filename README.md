@@ -1,2 +1,2 @@
 # TecEmergentes
-laboratorios de tecnologías emergentes
+Temas y laboratorios de tecnologías emergentes
